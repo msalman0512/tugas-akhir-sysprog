@@ -1,6 +1,6 @@
 # Tugas Akhir Sysprog
 
-Proyek ini dibuat sebagai proyek untuk tugas akhir mata kuliah Pemrograman Sistem. Pada proyek ini kami membuat *Snapshotd* yang bisa digunakan untuk mengambil foto dan video, live stream video, dan melakukan pengambilan foto dengan status. Terdapat program CLI, yang akan menampilkan pemilihan fitur yang akan digunakan. Kemudian program akan tereksekusi sesuai dengan pilihan pengguna. 
+Proyek ini dibuat sebagai proyek untuk tugas akhir mata kuliah Pemrograman Sistem. Pada proyek ini kami membuat *Snapshot* yang bisa digunakan untuk mengambil foto dan video, live stream video, dan melakukan pengambilan foto dengan status. Terdapat program CLI, yang akan menampilkan pemilihan fitur yang akan digunakan. Kemudian program akan tereksekusi sesuai dengan pilihan pengguna. 
 
 Berikut adalah cara penggunaannya:
 1. Unduh program yang terdapat pada github https://github.com/msalman0512/tugas-akhir-sysprog 
